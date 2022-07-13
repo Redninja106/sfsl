@@ -1,0 +1,12 @@
+C:\dev\misc\sfsl\src\SimulationFramework.SFSL\obj\Debug\net6.0\SimulationFramework.SFSL.csproj.AssemblyReference.cache
+C:\dev\misc\sfsl\src\SimulationFramework.SFSL\obj\Debug\net6.0\SimulationFramework.SFSL.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\misc\sfsl\src\SimulationFramework.SFSL\obj\Debug\net6.0\SimulationFramework.SFSL.AssemblyInfoInputs.cache
+C:\dev\misc\sfsl\src\SimulationFramework.SFSL\obj\Debug\net6.0\SimulationFramework.SFSL.AssemblyInfo.cs
+C:\dev\misc\sfsl\src\SimulationFramework.SFSL\obj\Debug\net6.0\SimulationFramework.SFSL.csproj.CoreCompileInputs.cache
+C:\dev\misc\sfsl\src\SimulationFramework.SFSL\bin\Debug\net6.0\SimulationFramework.SFSL.deps.json
+C:\dev\misc\sfsl\src\SimulationFramework.SFSL\bin\Debug\net6.0\SimulationFramework.SFSL.dll
+C:\dev\misc\sfsl\src\SimulationFramework.SFSL\bin\Debug\net6.0\SimulationFramework.SFSL.pdb
+C:\dev\misc\sfsl\src\SimulationFramework.SFSL\obj\Debug\net6.0\SimulationFramework.SFSL.dll
+C:\dev\misc\sfsl\src\SimulationFramework.SFSL\obj\Debug\net6.0\refint\SimulationFramework.SFSL.dll
+C:\dev\misc\sfsl\src\SimulationFramework.SFSL\obj\Debug\net6.0\SimulationFramework.SFSL.pdb
+C:\dev\misc\sfsl\src\SimulationFramework.SFSL\obj\Debug\net6.0\ref\SimulationFramework.SFSL.dll
